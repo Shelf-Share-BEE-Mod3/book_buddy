@@ -50,3 +50,9 @@ Search for a book by ISBN_13
     Lito White - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/litowhite/) - [GitHub](https://github.com/ljwhite) - [Email](mailto:leland.white@gmail.com)
 
  Jonathan Wilson - [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/) - [GitHub](https://github.com/Jonathan-M-Wilson) - [Email](mailto:jonathanmorrillwilson@gmail.com)
+ 
+ 
+ <!-- MARKDOWN LINKS & IMAGES -->
+
+ [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+
